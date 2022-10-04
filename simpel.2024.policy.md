@@ -2920,7 +2920,4 @@
                                                                                                                                                 </bdt>
                                                                                                                                             </span></span><span
                                                                                                                                             data-custom-class="body_text">.</span></span></span>
-                                                                                                                                    </div>
-                                                                                                                                    
-                                                                                                                                </div>
-                                                                                                                                
+                                                                                                                                    </div>                                                                                                                                
